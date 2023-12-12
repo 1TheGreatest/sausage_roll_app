@@ -24,8 +24,11 @@ The Sausage Roll Shop app is a Flutter-based mobile application designed for use
 - Dart SDK
 
 ## Usage
-1. Install the dependencies: flutter pub get
-2. Run the app using the Flutter command: flutter run
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/1TheGreatest/sausage_roll_app.git
+2. Install the dependencies: flutter pub get
+3. Run the app using the Flutter command: flutter run
 
 ## Screens
 - **Home Page**: Displays the list of sausage rolls.
